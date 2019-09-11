@@ -1,1 +1,1 @@
-# algorithms-on-Python-
+# algorithms-python
